@@ -1,2 +1,2 @@
-# vuelamp
- https://sedulla.github.io/vuelamp/
+# lamp
+ https://sedulla.github.io/lamp/
